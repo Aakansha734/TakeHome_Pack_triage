@@ -1,0 +1,40 @@
+customer_id,name,plan,plan_value_inr,purchase_date,medication,current_dose,assigned_coach,whatsapp_group_id,uses_app
+C01,Ananya Rao,Medicated Weight Loss - 3 Months,24999,2026-08-21,Semaglutide pen,0.25 mg weekly,Riya,WA-101,Y
+C02,Meera Kulkarni,Medicated Weight Loss - 6 Months,44999,2026-09-02,Semaglutide pen,0.5 mg weekly,Riya,WA-102,N
+C03,Rohit Bansal,Medicated Weight Loss - 3 Months,24999,2026-10-08,Semaglutide pen,0.25 mg weekly,Karan,WA-103,N
+C04,Shreya Iyer,Medicated Weight Loss - 6 Months,44999,2026-08-12,Semaglutide pen,1 mg weekly,Riya,WA-104,Y
+C05,Vikram Sethi,Medicated Weight Loss - 3 Months,24999,2026-09-20,Tirzepatide pen,5 mg weekly,Karan,WA-105,N
+C06,Neha Kapoor,Medicated Weight Loss - 6 Months,44999,2026-07-30,Semaglutide pen,1 mg weekly,Riya,WA-106,N
+C07,Arjun Mehta,Medicated Weight Loss - 3 Months,24999,2026-09-10,Semaglutide pen,0.5 mg weekly,Riya,WA-107,Y
+C08,Pooja Nair,Absolute Start - 1 Month,4999,2026-10-15,None (lifestyle plan),-,Sneha,,N
+C09,Sanjay Gupta,Absolute Start - 4 Months,14999,2026-10-13,None (lifestyle plan),-,Karan,WA-109,N
+C11,Kavita Joshi,Medicated Weight Loss - 3 Months,24999,2026-09-05,Semaglutide pen,0.5 mg weekly,Riya,WA-111,N
+C12,Sunita Patil,Medicated Weight Loss - 3 Months,24999,2026-09-28,Semaglutide pen,0.25 mg weekly,Sneha,WA-112,N
+C13,Rahul Verma,Medicated Weight Loss - 3 Months,24999,2026-09-14,Semaglutide pen,0.5 mg weekly,Karan,WA-113,N
+C14,Nikhil Shah,Medicated Weight Loss - 6 Months,44999,2026-08-05,Semaglutide pen,1 mg weekly,Riya,WA-114,Y
+C15,Divya Menon,Absolute Start - 4 Months,14999,2026-08-25,None (lifestyle plan),-,Riya,WA-115,Y
+C16,Manish Agarwal,Absolute Start - 1 Month,4999,2026-10-06,None (lifestyle plan),-,Karan,WA-116,N
+C17,Ritu Singh,Medicated Weight Loss - 3 Months,24999,2026-09-24,Semaglutide pen,0.25 mg weekly,Riya,WA-117,N
+C18,Amit Desai,Medicated Weight Loss - 3 Months,24999,2026-09-18,Semaglutide pen,0.5 mg weekly,Karan,WA-118,N
+C19,Lakshmi Reddy,Medicated Weight Loss - 6 Months,44999,2026-08-01,Semaglutide pen,1 mg weekly,Riya,WA-119,Y
+C20,Harsh Malhotra,Medicated Weight Loss - 3 Months,24999,2026-09-08,Tirzepatide pen,5 mg weekly,Riya,WA-120,N
+C21,Simran Malhotra,Medicated Weight Loss - 3 Months,24999,2026-09-08,Semaglutide pen,0.5 mg weekly,Riya,WA-120,N
+C22,Deepak Jain,Medicated Weight Loss - 3 Months,24999,2026-10-09,Semaglutide pen,0.25 mg weekly,Karan,WA-122,N
+C23,Tanvi Bhatt,Absolute Start - 4 Months,14999,2026-09-15,None (lifestyle plan),-,Riya,WA-123,Y
+C24,Gaurav Chawla,Medicated Weight Loss - 3 Months,24999,2026-09-01,Semaglutide pen,0.5 mg weekly,Karan,WA-124,N
+C25,Isha Kohli,Absolute Start - 4 Months,14999,2026-09-29,None (lifestyle plan),-,Sneha,,Y
+C26,Prakash Iyer,Medicated Weight Loss - 6 Months,44999,2026-08-18,Semaglutide pen,1 mg weekly,Riya,WA-126,N
+C27,Aarti Sharma,Absolute Start - 4 Months,14999,2026-07-21,None (lifestyle plan),-,Karan,WA-127,Y
+C28,Rakesh Pillai,Medicated Weight Loss - 3 Months,24999,2026-07-28,Semaglutide pen,0.5 mg weekly,Karan,WA-128,Y
+C29,Nisha Thakur,Medicated Weight Loss - 6 Months,44999,2026-07-22,Semaglutide pen,0.5 mg weekly,Riya,WA-129,Y
+C30,Varun Kapoor,Absolute Start - 4 Months,14999,2026-08-24,None (lifestyle plan),-,Riya,WA-130,N
+C31,Pallavi Ghosh,Medicated Weight Loss - 3 Months,24999,2026-08-17,Semaglutide pen,1 mg weekly,Karan,WA-131,Y
+C32,Sameera Khan,Medicated Weight Loss - 3 Months,24999,2026-09-02,Semaglutide pen,1 mg weekly,Riya,WA-132,Y
+C33,Kunal Arora,Absolute Start - 4 Months,14999,2026-09-06,None (lifestyle plan),-,Riya,WA-133,Y
+C34,Bhavna Shetty,Medicated Weight Loss - 6 Months,44999,2026-07-26,Semaglutide pen,1 mg weekly,Karan,WA-134,N
+C35,Yash Doshi,Medicated Weight Loss - 3 Months,24999,2026-09-04,Semaglutide pen,1 mg weekly,Riya,WA-135,N
+C36,Rekha Menon,Absolute Start - 4 Months,14999,2026-08-24,None (lifestyle plan),-,Riya,WA-136,N
+C37,Siddharth Rao,Medicated Weight Loss - 3 Months,24999,2026-09-03,Semaglutide pen,0.5 mg weekly,Riya,WA-137,Y
+C38,Anjali Sinha,Medicated Weight Loss - 6 Months,44999,2026-07-25,Semaglutide pen,0.5 mg weekly,Karan,WA-138,N
+C39,Mohit Saxena,Absolute Start - 6 Months,19999,2026-08-18,None (lifestyle plan),-,Karan,WA-139,N
+C40,Farah Siddiqui,Medicated Weight Loss - 3 Months,24999,2026-08-12,Semaglutide pen,1 mg weekly,Riya,WA-140,N
